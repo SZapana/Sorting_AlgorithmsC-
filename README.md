@@ -1,6 +1,5 @@
 # Comparador de Algoritmos de Ordenamiento
-
-Este proyecto es un programa en C++ desarrollado para la materia de Programación Competitiva de la UNAP. El programa genera una cantidad N de números aleatorios dentro de un rango específico y evalúa la eficiencia de 6 algoritmos de ordenamiento clásicos: Burbuja, Selección, Inserción, Shell Sort, Merge Sort y Quick Sort.
+ El programa genera una cantidad N de números aleatorios dentro de un rango específico y evalúa la eficiencia de 6 algoritmos de ordenamiento clásicos: Burbuja, Selección, Inserción, Shell Sort, Merge Sort y Quick Sort.
 
 La comparación se realiza midiendo la cantidad de pasos (comparaciones internas) que realiza cada algoritmo y el tiempo de ejecución en nanosegundos.
 
